@@ -42,5 +42,5 @@ Para que a IA aprenda o comportamento desejado, o sistema de pontuação foi cal
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/agrodrone-qlearning.git](https://github.com/seu-usuario/agrodrone-qlearning.git)
+   git clone [https://github.com/seu-usuario/agrodrone-qlearning.git](https://github.com/joaolucasmmelo/agrodrone-qlearning.git)
    cd agrodrone-qlearning
